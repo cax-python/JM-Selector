@@ -1,5 +1,6 @@
-# Cax-JM-Selector
+# JM-Selector
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 一个 [JMComic 检索 → DeepSeek 识图筛选 → 按编号下载] 的命令行小工具
 
@@ -150,4 +151,9 @@ java -jar target/java-select-1.0-SNAPSHOT.jar download --id-file results.json --
 - 下载/筛选会联网访问 JMComic；其服务器偶发 MySQL 故障，处理方法为搜索/取本子各 3 次
 - 本工具用于个人研究/整理，请遵守当地法律法规与平台条款
 
-baka
+Master-Spark
+
+---
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
