@@ -1,0 +1,34 @@
+{
+    "API_KEY": "sk-yourapikey",
+    "MODEL": "deepseek-v4-flash-vision-exp",
+
+    "SEARCH": "",
+    "SEARCH_MAX_PAGES": 0,
+    "SEARCH_MAX_RESULTS": 0,
+    "RANGE": "",
+    "IDS": "",
+
+    "PREFERENCE": "我喜欢xxx",
+    "PREFERENCE_FILE": "",
+
+    "JAILBREAK": "",
+    "JAILBREAK_FILE": "",
+
+    "IMAGE_LEVEL": "auto",
+    "IMAGE_N": 10,
+    "CHAPTER_STRATEGY": "auto",
+    "CHAPTER_PICK": 4,
+    "CHAPTER_N": 3,
+
+    "PASS_RATIO": 0.6,
+    "DB_PATH": "./filter.db",
+    "RECHECK": false,
+
+    "OUTPUT": "results.json",
+    "DRY_RUN": false,
+    "VERBOSE": false,
+
+    "BATCH_MAX_IMAGES": 30,
+    "BATCH_MAX_BYTES": 46137344,
+    "LIMIT": 20
+}
