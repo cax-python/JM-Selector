@@ -11,7 +11,7 @@
 ## 命令
 
 ```bash
-java -jar target/java-select-1.0-SNAPSHOT.jar <子命令> [参数]
+java -jar JM-Selector-v1.0.0.jar <子命令> [参数]
 ```
 
 | 子命令 | 作用           |
