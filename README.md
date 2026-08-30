@@ -79,6 +79,8 @@ java -jar target/java-select-1.0-SNAPSHOT.jar download --id-file results.json --
 | `--jailbreak` | 破甲提示词|
 | `--jailbreak-file` | 从文件读破甲（仅当 `--jailbreak` 为空时） |
 
+#### 本应用内置了超级强大的提示词，你可以不用导入其他提示词，当他失效时再从外部导入！
+
 ### 采样方式
 
 | 参数 | 含义 |
